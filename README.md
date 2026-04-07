@@ -5,16 +5,6 @@
 Full-Stack Developer based in Casablanca, Morocco. I build scalable web applications from front-end to back-end, with a strong focus on Java (Spring Boot) and a growing specialization in Artificial Intelligence. Passionate about clean code and problem solving — 100+ challenges solved on LeetCode.
 
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Rust+%7C+Go+%7C+JavaScript;System+Programming+Enthusiast;Building+Real-Time+Applications)
-  
-  [![Email](https://img.shields.io/badge/Email-bastayoussef2001%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastayoussef2001@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-2001basta-181717?style=for-the-badge&logo=github)](https://github.com/2001basta)
-  [![Zone01](https://img.shields.io/badge/Zone01-Oujda-blue?style=for-the-badge)](https://learn.zone01oujda.ma)
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
@@ -48,7 +38,9 @@ Full-Stack Developer based in Casablanca, Morocco. I build scalable web applicat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚀 Projects
+</div>
+
+## Projects
 
 ### 🏦 Back-Office — BITS *(Spring Boot, Angular, PostgreSQL, Docker, WebSocket)*
 Back-office platform for a mobile payment ecosystem. Allows merchants to manage accounts, transactions, and compliance in real time.
@@ -97,11 +89,10 @@ Unix shell built in Rust using direct system calls.
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-bastayoussef2001@gmail.com-red?style=flat&logo=gmail)](mailto:bastayoussef2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bastayoussef2001-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bastayoussef2001)
 [![GitHub](https://img.shields.io/badge/GitHub-2001basta-black?style=flat&logo=github)](https://github.com/2001basta)
-</div>
 
 ---

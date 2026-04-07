@@ -1,4 +1,9 @@
-# 🚀 Youssef Basta | Full-Stack Developer
+# Youssef Basta | Full-Stack Developer
+
+# Hi, I'm Youssef Basta 👋
+
+Full-Stack Developer based in Casablanca, Morocco. I build scalable web applications from front-end to back-end, with a strong focus on Java (Spring Boot) and a growing specialization in Artificial Intelligence. Passionate about clean code and problem solving — 100+ challenges solved on LeetCode.
+
 
 <div align="center">
   
@@ -10,19 +15,7 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **full-stack developer** from Zone01 Oujda, specializing in building robust, scalable applications from the ground up. I thrive on challenges that push the boundaries of what's possible with modern technology—from low-level system programming in **Rust** to real-time web applications with **Go** and **JavaScript**.
-
-🔹 **Current Focus:** Building a fullstack blogging platform with Java Spring Boot & Angular  
-🔹 **Interests:** System programming, WebSockets, custom frameworks, game development  
-🔹 **Philosophy:** Build it from scratch to truly understand it  
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,23 +47,6 @@ I'm a passionate **full-stack developer** from Zone01 Oujda, specializing in bui
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# Hi, I'm Youssef Basta 👋
-
-Full-Stack Developer based in Casablanca, Morocco. I build scalable web applications from front-end to back-end, with a strong focus on Java (Spring Boot) and a growing specialization in Artificial Intelligence. Passionate about clean code and problem solving — 100+ challenges solved on LeetCode.
-
----
-
-## 🛠️ Tech Stack
-
-**Front-End:** HTML, CSS, JavaScript, React.js, Angular, Vue.js  
-**Back-End:** Java (Spring Boot), Golang, Node.js, Rust  
-**Databases:** MySQL, PostgreSQL, SQLite3  
-**APIs & Services:** RESTful APIs, GraphQL, WebSockets  
-**DevOps & Cloud:** Docker  
-**Version Control:** Git, GitHub  
-**Other Tools:** Postman, Agile/Scrum  
-
----
 
 ## 🚀 Projects
 
@@ -129,20 +105,3 @@ Unix shell built in Rust using direct system calls.
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-  
-  ### ⚡ Fun Fact
-  
-  *All projects were built **from scratch** to deeply understand core concepts—from custom frameworks to system shells to multiplayer games!*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=2001basta&color=blueviolet&style=for-the-badge)
-  
-  ---
-  
-  ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
-  
-</div>

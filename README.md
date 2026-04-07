@@ -61,17 +61,6 @@ I'm a passionate **full-stack developer** from Zone01 Oujda, specializing in bui
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2001basta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2001basta&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2001basta&theme=tokyonight&hide_border=true)
-
-</div>
-
-
 
 <div align="center">
   
